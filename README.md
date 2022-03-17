@@ -1,5 +1,6 @@
 # CryptoBurbs RaritySniper Link Builder
 
+Clone the repo and `cd` into it
 
 ## Setup
 
